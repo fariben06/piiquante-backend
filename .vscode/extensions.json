@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-debug",
+        "ms-vsliveshare.vsliveshare",
+        "rogalmic.bash-debug",
+        "humao.rest-client",
+        "nucllear.vscode-extension-auto-import",
+        "pkief.material-icon-theme",
+        "steoates.autoimport"
+    ]
+}
